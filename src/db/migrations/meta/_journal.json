@@ -15,6 +15,13 @@
       "when": 1752039738703,
       "tag": "0001_groovy_black_panther",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752178047836,
+      "tag": "0002_tranquil_toxin",
+      "breakpoints": true
     }
   ]
 }
