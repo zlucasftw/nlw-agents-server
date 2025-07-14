@@ -19,6 +19,13 @@ Este projeto foi desenvolvido durante o evento NLW da Rocketseat.
 - **Barrel files** para schemas
 - **Separação de configuração/env**
 
+## 🎥 Demonstração
+
+Uma simples demonstração de como a aplicação funciona na prática (e qual a relação entre jardineiros e React 🤔):
+
+![Demonstração simples do projeto](./docs/simple_demo.gif)
+
+
 ## Setup do Projeto
 
 ### 1. Clone o repositório e instale as dependências
