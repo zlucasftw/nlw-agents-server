@@ -1,6 +1,6 @@
 # NLW Agents
 
-Este projeto foi desenvolvido durante o evento NLW da Rocketseat.
+Este projeto foi desenvolvido durante o evento NLW Agents da Rocketseat.
 
 ## Tecnologias e Bibliotecas Utilizadas
 - **Node.js** + **TypeScript**
@@ -18,6 +18,10 @@ Este projeto foi desenvolvido durante o evento NLW da Rocketseat.
 - **Validação de dados com Zod**
 - **Barrel files** para schemas
 - **Separação de configuração/env**
+
+## Front-end do projeto:
+
+O front-end do projeto é uma aplicação que utiliza Next.js e React que consome a API desenvolvida aqui. Você pode conferir o repositório do front-end [aqui](https://github.com/zlucasftw/nlw-agents-web).
 
 ## 🎥 Demonstração
 
